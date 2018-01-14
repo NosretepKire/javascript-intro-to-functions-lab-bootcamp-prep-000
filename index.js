@@ -1,4 +1,4 @@
 function shout(string) {
   return string .toUpperCase()
 }
-sayHiToGrandma()
+function whisper(string) { return string .
